@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="Wf_Woocommerce_Packing_List">
+            <key name="woocommerce_wf_packinglist_footer" />
+        </key>
+    </admin-texts>
+</wpml-config>

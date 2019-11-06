@@ -1,0 +1,1482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PDF Invoices, Packing Slips, Delivery Notes "
+"& Shipping Labels (Basic)\n"
+"POT-Creation-Date: 2019-07-16 13:15+0530\n"
+"PO-Revision-Date: 2019-07-16 13:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wf-woocommerce-packing-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:101
+#, fuzzy
+msgid "Settings updated."
+msgstr "Ayarlar güncellendi."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:102
+#: admin/class-wf-woocommerce-packing-list-admin.php:461
+#, fuzzy
+msgid "All fields are mandatory"
+msgstr "Tüm alanlar zorunlu"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:103
+#, fuzzy
+msgid "Unable to update Settings."
+msgstr "Ayarlar güncellenemiyor."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:104
+#, fuzzy
+msgid "You have to select order(s) first!"
+msgstr "Önce emirleri seçmelisiniz!"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:105
+#, fuzzy
+msgid "One or more order do not have invoice generated. Generate manually?"
+msgstr ""
+"Bir veya daha fazla sipariş için oluşturulan fatura yok. Manuel olarak "
+"oluştur"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:138
+#, fuzzy
+msgctxt "placeholder"
+msgid "Enter "
+msgstr "Girmek"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:292
+#, fuzzy
+msgid "Print Actions"
+msgstr "Eylemleri Yazdır"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:302
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:22
+#, fuzzy
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:303
+#, fuzzy
+msgid "Upgrade to premium"
+msgstr "Premiuma yükselt"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:304
+#, fuzzy
+msgid "Support"
+msgstr "Destek"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:305
+#, fuzzy
+msgid "Review"
+msgstr "İnceleme"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:342
+#: admin/class-wf-woocommerce-packing-list-admin.php:364
+#, fuzzy
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:343
+#, fuzzy
+msgid "Invoice/Packing"
+msgstr "Fatura / Paketleme"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:353
+#: admin/class-wf-woocommerce-packing-list-admin.php:354
+#, fuzzy
+msgid "Document settings"
+msgstr "Döküman ayarları"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:396
+#, fuzzy
+msgid "You are not allowed to view this page."
+msgstr "Bu sayfayı görüntüleme izniniz yok."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:397
+#, fuzzy
+msgid "Access denied !!!."
+msgstr "Erişim reddedildi !!!."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:460
+#: admin/modules/customizer/customizer.php:97
+#, fuzzy
+msgid "Error"
+msgstr "Hata"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:561
+#: admin/class-wf-woocommerce-packing-list-admin.php:648
+#: public/modules/invoice/invoice.php:177
+#, fuzzy
+msgid "Settings Updated."
+msgstr "Ayarlar güncellendi."
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:735
+#, fuzzy
+msgid "Choose Order Status"
+msgstr "Sipariş Durumu Seç"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:770
+#, fuzzy
+msgid "Upload"
+msgstr "Yükle"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:826
+#, fuzzy
+msgid "Checkout Meta Key Fetcher"
+msgstr "Ödeme Meta Anahtar Alıcısı"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:826
+#: admin/class-wf-woocommerce-packing-list-admin.php:857
+#, fuzzy
+msgid "Field Name"
+msgstr "Alan Adı"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:826
+#: admin/class-wf-woocommerce-packing-list-admin.php:857
+#, fuzzy
+msgid "Meta Key"
+msgstr "Anahtar Kelimeler"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:827
+#, fuzzy
+msgid "Add Existing Order Meta Field"
+msgstr "Mevcut Sipariş Meta Alanını Ekleyin"
+
+#: admin/class-wf-woocommerce-packing-list-admin.php:857
+#, fuzzy
+msgid "Add Product Meta"
+msgstr "Ürün Meta Ekle"
+
+#: admin/modules/customizer/classes/class-customizer.php:78
+#, fuzzy
+msgid "Box name"
+msgstr "Kutu adı"
+
+#: admin/modules/customizer/classes/class-customizer.php:302
+#, fuzzy
+msgid "incl. tax"
+msgstr "dahil. vergi"
+
+#: admin/modules/customizer/classes/class-customizer.php:310
+#, fuzzy
+msgid "Refund"
+msgstr "İade"
+
+#: admin/modules/customizer/classes/class-customizer.php:479
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:98
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:105
+#: public/modules/shippinglabel/shippinglabel.php:104
+#, fuzzy
+msgid "n/a"
+msgstr "n/a"
+
+#: admin/modules/customizer/customizer.php:57
+#: admin/modules/customizer/customizer.php:62
+#, fuzzy
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: admin/modules/customizer/customizer.php:98
+#, fuzzy
+msgid "Success"
+msgstr "Başarılı"
+
+#: admin/modules/customizer/customizer.php:99
+#, fuzzy
+msgid "You can't undo this action. Are you sure?"
+msgstr "Bu işlemi geri alamazsınız. Emin misiniz?"
+
+#: admin/modules/customizer/customizer.php:100
+#, fuzzy
+msgid "Click here to add Company logo"
+msgstr "Şirket logosu eklemek için buraya tıklayın"
+
+#: admin/modules/customizer/customizer.php:101
+#, fuzzy
+msgid "Click here to add Company name"
+msgstr "Şirket adı eklemek için buraya tıklayın"
+
+#: admin/modules/customizer/customizer.php:102
+#, fuzzy
+msgid "Click here to add From address"
+msgstr "Kimden adresini eklemek için buraya tıklayın"
+
+#: admin/modules/customizer/customizer.php:103
+#, fuzzy
+msgid "Click here to add Signature"
+msgstr "İmza eklemek için buraya tıklayın"
+
+#: admin/modules/customizer/customizer.php:104
+#, fuzzy
+msgid ""
+"Please save all data before leaving this page. All unsaved data will be "
+"lost. Are you sure?"
+msgstr ""
+"Lütfen bu sayfadan ayrılmadan önce tüm verileri kaydedin. Tüm kaydedilmemiş "
+"veriler kaybedilecek. Emin misiniz?"
+
+#: admin/modules/customizer/customizer.php:105
+#: admin/modules/customizer/views/customize.php:179
+#, fuzzy
+msgid "Create new template"
+msgstr "Yeni şablon oluştur"
+
+#: admin/modules/customizer/customizer.php:106
+#, fuzzy
+msgid "Change layout"
+msgstr "Görünümü Değiştir"
+
+#: admin/modules/customizer/customizer.php:107
+#, fuzzy
+msgid "Saving"
+msgstr "Kaydediliyor"
+
+#: admin/modules/customizer/customizer.php:144
+#: admin/modules/customizer/customizer.php:402
+#, fuzzy
+msgid "Active"
+msgstr "Aktif"
+
+#: admin/modules/customizer/customizer.php:374
+#, fuzzy
+msgid "Error."
+msgstr "Hata."
+
+#: admin/modules/customizer/customizer.php:405
+#: admin/modules/customizer/views/customize.php:192
+#, fuzzy
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: admin/modules/customizer/customizer.php:432
+#, fuzzy
+msgid "No template found."
+msgstr "Şablon bulunamadı."
+
+#: admin/modules/customizer/customizer.php:450
+#, fuzzy
+msgid "Unable to save theme."
+msgstr "Tema kaydedilemiyor."
+
+#: admin/modules/customizer/customizer.php:491
+#, fuzzy
+msgid "Template created."
+msgstr "Şablon oluşturuldu."
+
+#: admin/modules/customizer/customizer.php:526
+#, fuzzy
+msgid "Template updated."
+msgstr "Şablon güncellendi."
+
+#: admin/modules/customizer/customizer.php:548
+#, fuzzy
+msgid "Unable to switch view."
+msgstr "Görünüm değiştirilemiyor."
+
+#: admin/modules/customizer/customizer.php:799
+#, fuzzy
+msgid "Unable to load template."
+msgstr "Şablon yüklenemedi."
+
+#: admin/modules/customizer/customizer.php:822
+#, fuzzy
+msgid "Untitled template"
+msgstr "Adsız şablon"
+
+#: admin/modules/customizer/views/_customize_properties.php:103
+#, fuzzy
+msgid "Lighter"
+msgstr "Hafif"
+
+#: admin/modules/customizer/views/_customize_properties.php:104
+#, fuzzy
+msgid "Normal"
+msgstr "Normal"
+
+#: admin/modules/customizer/views/_customize_properties.php:105
+#, fuzzy
+msgid "Bold"
+msgstr "Kalın"
+
+#: admin/modules/customizer/views/_customize_properties.php:106
+#, fuzzy
+msgid "Bolder"
+msgstr "Daha Kalın"
+
+#: admin/modules/customizer/views/_customize_properties.php:114
+#, fuzzy
+msgid "Select One"
+msgstr "Birini seç"
+
+#: admin/modules/customizer/views/_customize_properties.php:124
+#, fuzzy
+msgid "Left"
+msgstr "Sol"
+
+#: admin/modules/customizer/views/_customize_properties.php:125
+#, fuzzy
+msgid "Right"
+msgstr "Sağ"
+
+#: admin/modules/customizer/views/_customize_properties.php:126
+#, fuzzy
+msgid "Center"
+msgstr "Merkez"
+
+#: admin/modules/customizer/views/_customize_properties.php:127
+#, fuzzy
+msgid "Start"
+msgstr "Başla"
+
+#: admin/modules/customizer/views/_customize_properties.php:128
+#, fuzzy
+msgid "End"
+msgstr "Son"
+
+#: admin/modules/customizer/views/_customize_properties.php:135
+#, fuzzy
+msgid "Display"
+msgstr "Görüntüle"
+
+#: admin/modules/customizer/views/_customize_properties.php:139
+#: public/modules/invoice/invoice.php:499
+#, fuzzy
+msgid "Company Logo"
+msgstr "Şirket Logosu"
+
+#: admin/modules/customizer/views/_customize_properties.php:140
+#, fuzzy
+msgid "Company Name"
+msgstr "Şirket Adı"
+
+#: admin/modules/customizer/views/_customize_properties.php:144
+#, fuzzy
+msgid "Logo Width"
+msgstr "Logo Genişliği"
+
+#: admin/modules/customizer/views/_customize_properties.php:151
+#, fuzzy
+msgid "Logo Height"
+msgstr "Logo Yüksekliği"
+
+#: admin/modules/customizer/views/_customize_properties.php:159
+#, fuzzy
+msgid "Company name font size"
+msgstr "Şirket adı yazı tipi boyutu"
+
+#: admin/modules/customizer/views/_customize_properties.php:165
+#, fuzzy
+msgid "Extra Details"
+msgstr "Ekstra Ayrıntılar"
+
+#: admin/modules/customizer/views/_customize_properties.php:171
+#, fuzzy
+msgid "Extra detail font size"
+msgstr "Ekstra ayrıntı yazı tipi boyutu"
+
+#: admin/modules/customizer/views/_customize_properties.php:177
+#, fuzzy
+msgid "Header Color"
+msgstr "Başlık Rengi"
+
+#: admin/modules/customizer/views/_customize_properties.php:190
+#: admin/modules/customizer/views/_customize_properties.php:224
+#, fuzzy
+msgid "Text"
+msgstr "Metin"
+
+#: admin/modules/customizer/views/_customize_properties.php:195
+#: admin/modules/customizer/views/_customize_properties.php:247
+#: admin/modules/customizer/views/_customize_properties.php:305
+#: admin/modules/customizer/views/_customize_properties.php:511
+#, fuzzy
+msgid "Font size"
+msgstr "Yazı Boyutu"
+
+#: admin/modules/customizer/views/_customize_properties.php:203
+#: admin/modules/customizer/views/_customize_properties.php:255
+#, fuzzy
+msgid "Style"
+msgstr "Stil"
+
+#: admin/modules/customizer/views/_customize_properties.php:213
+#: admin/modules/customizer/views/_customize_properties.php:265
+#: admin/modules/customizer/views/_customize_properties.php:289
+#: admin/modules/customizer/views/_customize_properties.php:323
+#, fuzzy
+msgid "Text color"
+msgstr "Metin rengi"
+
+#: admin/modules/customizer/views/_customize_properties.php:229
+#: public/modules/invoice/views/invoice-number.php:22
+#, fuzzy
+msgid "Format"
+msgstr "Biçim"
+
+#: admin/modules/customizer/views/_customize_properties.php:276
+#: admin/modules/customizer/views/_customize_properties.php:300
+#: admin/modules/customizer/views/_customize_properties.php:506
+#, fuzzy
+msgid "Title"
+msgstr "Başlık"
+
+#: admin/modules/customizer/views/_customize_properties.php:281
+#, fuzzy
+msgid "Text align"
+msgstr "Metin hizalama"
+
+#: admin/modules/customizer/views/_customize_properties.php:334
+#, fuzzy
+msgid "Table head background"
+msgstr "Masa başı arka plan"
+
+#: admin/modules/customizer/views/_customize_properties.php:341
+#, fuzzy
+msgid "Table head text color"
+msgstr "Masa başı metin rengi"
+
+#: admin/modules/customizer/views/_customize_properties.php:348
+#, fuzzy
+msgid "Table body text color"
+msgstr "Tablo gövdesi metin rengi"
+
+#: admin/modules/customizer/views/_customize_properties.php:362
+#, fuzzy
+msgid "SKU label"
+msgstr "SKU etiketi"
+
+#: admin/modules/customizer/views/_customize_properties.php:368
+#, fuzzy
+msgid "SKU text align"
+msgstr "SKU metin hizalaması"
+
+#: admin/modules/customizer/views/_customize_properties.php:385
+#, fuzzy
+msgid "Product label"
+msgstr "Çözüm Etiketi"
+
+#: admin/modules/customizer/views/_customize_properties.php:391
+#, fuzzy
+msgid "Product text align"
+msgstr "Ürün metni hizala"
+
+#: admin/modules/customizer/views/_customize_properties.php:408
+#, fuzzy
+msgid "Qty label"
+msgstr "Adet etiket"
+
+#: admin/modules/customizer/views/_customize_properties.php:414
+#, fuzzy
+msgid "Qty text align"
+msgstr "Adet metin hizalaması"
+
+#: admin/modules/customizer/views/_customize_properties.php:431
+#, fuzzy
+msgid "Price label"
+msgstr "Fiyat etiketi"
+
+#: admin/modules/customizer/views/_customize_properties.php:437
+#, fuzzy
+msgid "Price text align"
+msgstr "Fiyat metni hizalaması"
+
+#: admin/modules/customizer/views/_customize_properties.php:454
+#, fuzzy
+msgid "Total weight label"
+msgstr "Toplam ağırlık etiketi"
+
+#: admin/modules/customizer/views/_customize_properties.php:460
+#, fuzzy
+msgid "Total weight text align"
+msgstr "Toplam ağırlık metni hizalaması"
+
+#: admin/modules/customizer/views/_customize_properties.php:477
+#, fuzzy
+msgid "Total label"
+msgstr "Toplam etiket"
+
+#: admin/modules/customizer/views/_customize_properties.php:483
+#, fuzzy
+msgid "Total text align"
+msgstr "Toplam metin hizalaması"
+
+#: admin/modules/customizer/views/_customize_properties.php:497
+#, fuzzy
+msgid "Signature type"
+msgstr "İmza türü"
+
+#: admin/modules/customizer/views/_customize_properties.php:501
+#, fuzzy
+msgid "Manual Signature"
+msgstr "Manuel İmza"
+
+#: admin/modules/customizer/views/_customize_properties.php:502
+#, fuzzy
+msgid "Image Signature"
+msgstr "İmza İmza"
+
+#: admin/modules/customizer/views/_customize_properties.php:519
+#, fuzzy
+msgid "Align"
+msgstr "Hizalama"
+
+#: admin/modules/customizer/views/_customize_properties.php:536
+#, fuzzy
+msgid "Label"
+msgstr "Etiket"
+
+#: admin/modules/customizer/views/_customize_properties.php:547
+#: public/modules/invoice/invoice.php:513
+#, fuzzy
+msgid "Sub Total"
+msgstr "Alt Toplam"
+
+#: admin/modules/customizer/views/_customize_properties.php:553
+#: public/modules/invoice/invoice.php:514
+#, fuzzy
+msgid "Shipping"
+msgstr "Kargo"
+
+#: admin/modules/customizer/views/_customize_properties.php:560
+#: public/modules/invoice/invoice.php:515
+#, fuzzy
+msgid "Cart Discount"
+msgstr "Sepet İndirimi"
+
+#: admin/modules/customizer/views/_customize_properties.php:566
+#: public/modules/invoice/invoice.php:516
+#, fuzzy
+msgid "Order Discount"
+msgstr "Sipariş İndirimi"
+
+#: admin/modules/customizer/views/_customize_properties.php:573
+#: public/modules/invoice/invoice.php:517
+#, fuzzy
+msgid "Total Tax"
+msgstr "Toplam Vergi"
+
+#: admin/modules/customizer/views/_customize_properties.php:579
+#: public/modules/invoice/invoice.php:518
+#, fuzzy
+msgid "Fee"
+msgstr "Ücret"
+
+#: admin/modules/customizer/views/_customize_properties.php:586
+#: public/modules/invoice/invoice.php:520
+#, fuzzy
+msgid "Payment Method"
+msgstr "Ödeme Yöntemi"
+
+#: admin/modules/customizer/views/_customize_properties.php:592
+#: public/modules/invoice/invoice.php:521
+#, fuzzy
+msgid "Total"
+msgstr "Toplam"
+
+#: admin/modules/customizer/views/customize.php:92
+#, fuzzy
+msgid "Templates"
+msgstr "Şablonlar"
+
+#: admin/modules/customizer/views/customize.php:97
+#, fuzzy
+msgid "Type template name to search"
+msgstr "Aranacak şablon adını yazın"
+
+#: admin/modules/customizer/views/customize.php:107
+#, fuzzy
+msgid "Enter a name for your template"
+msgstr "Şablonunuz için bir ad girin"
+
+#: admin/modules/customizer/views/customize.php:112
+#, fuzzy
+msgid "Please enter name"
+msgstr "Lütfen isim giriniz"
+
+#: admin/modules/customizer/views/customize.php:119
+#: admin/modules/customizer/views/customize.php:187
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:108
+#, fuzzy
+msgid "Cancel"
+msgstr "İptal"
+
+#: admin/modules/customizer/views/customize.php:122
+#: admin/modules/customizer/views/customize.php:140
+#: admin/modules/customizer/views/customize.php:183
+#, fuzzy
+msgid "Save"
+msgstr "Kaydet"
+
+#: admin/modules/customizer/views/customize.php:130
+#, fuzzy
+msgid "Choose a layout."
+msgstr "Bir görünüm seçin."
+
+#: admin/modules/customizer/views/customize.php:136
+#, fuzzy
+msgid "All unsaved changes will be lost upon switching to a new layout."
+msgstr ""
+"Tüm kaydedilmemiş değişiklikler yeni bir düzene geçildiğinde kaybolacak."
+
+#: admin/modules/customizer/views/customize.php:138
+#, fuzzy
+msgid "Save before you proceed."
+msgstr "Devam etmeden önce kaydet."
+
+#: admin/modules/customizer/views/customize.php:139
+#, fuzzy
+msgid "Saving..."
+msgstr "Kaydediliyor..."
+
+#: admin/modules/customizer/views/customize.php:164
+#, fuzzy
+msgid "Use"
+msgstr "Kullan"
+
+#: admin/modules/customizer/views/customize.php:193
+#, fuzzy
+msgid "Delete"
+msgstr "Sil"
+
+#: admin/modules/customizer/views/customize.php:194
+#, fuzzy
+msgid "Create new"
+msgstr "Yeni oluştur"
+
+#: admin/modules/customizer/views/customize.php:195
+#, fuzzy
+msgid "My templates"
+msgstr "Şablonlarım"
+
+#: admin/modules/customizer/views/customize.php:206
+#, fuzzy
+msgid "Visual"
+msgstr "Görsel"
+
+#: admin/modules/customizer/views/customize.php:207
+#, fuzzy
+msgid "Code"
+msgstr "Kod"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:39
+#, fuzzy
+msgid "I couldn't understand how to make it work"
+msgstr "Nasıl çalışacağını anlayamadım"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:41
+#, fuzzy
+msgid "Would you like us to assist you?"
+msgstr "Size yardımcı olmamızı ister misiniz?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:45
+#, fuzzy
+msgid "I found a better plugin"
+msgstr "Daha iyi bir eklenti buldum"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:47
+#, fuzzy
+msgid "Which plugin?"
+msgstr "Hangi eklenti?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:51
+#, fuzzy
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+"Eklenti harika, ancak desteklemediğiniz özel bir özelliğe ihtiyacım var"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:53
+#, fuzzy
+msgid "Could you tell us more about that feature?"
+msgstr "Bize bu özellik hakkında daha fazla bilgi verir misiniz?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:57
+#, fuzzy
+msgid "The plugin is not working"
+msgstr "Eklenti çalışmıyor"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:59
+#, fuzzy
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Bize neyin işe yaramadığını biraz daha söyleyebilir misin?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:63
+#, fuzzy
+msgid "It's not what I was looking for"
+msgstr "Aradığım şey bu değildi."
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:69
+#, fuzzy
+msgid "The plugin didn't work as expected"
+msgstr "Eklenti beklendiği gibi çalışmadı"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:71
+#, fuzzy
+msgid "What did you expect?"
+msgstr "Ne bekliyordun?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:75
+#, fuzzy
+msgid "Other"
+msgstr "Diğer"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:77
+#, fuzzy
+msgid "Could you tell us a bit more?"
+msgstr "Bize biraz daha söyleyebilir misiniz?"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:96
+#, fuzzy
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+"Biraz zamanınız varsa lütfen neden devre dışı bıraktığınızı bize bildirin:"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:106
+#, fuzzy
+msgid "I rather wouldn't say"
+msgstr "Belirtmemeyi tercih ederim"
+
+#: admin/modules/uninstall-feedback/uninstall-feedback.php:107
+#, fuzzy
+msgid "Submit & Deactivate"
+msgstr "Gönder & Devre Dışı Bırak"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:23
+#, fuzzy
+msgid ""
+"WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels"
+msgstr ""
+"WooCommerce PDF Faturaları, Ambalaj Fişleri, Teslim Notları ve Nakliye "
+"Etiketleri"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:30
+#, fuzzy
+msgid "Documents"
+msgstr "Dökümanlar"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:31
+#: public/modules/invoice/views/invoice-admin-settings.php:7
+#, fuzzy
+msgid "General"
+msgstr "Genel"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:32
+#, fuzzy
+msgid "Help Guide"
+msgstr "Yardım rehberi"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-display.php:40
+#, fuzzy
+msgid "Upgrade to Premium for More Features"
+msgstr "Daha Fazla Özellik için Premium'a Geçin"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-document-settings.php:21
+#, fuzzy
+msgid "Document Settings"
+msgstr "Belge Ayarları"
+
+#: admin/partials/wf-woocommerce-packing-list-admin-document-settings.php:26
+#, fuzzy
+msgid "Other documents"
+msgstr "Diğer belgeler"
+
+#: admin/views/admin-settings-general.php:8
+#, fuzzy
+msgid ""
+"The company and shipping from address details from the sections below will "
+"be used to fill up the invoice and related documents accordingly."
+msgstr ""
+"Fatura ve ilgili belgeleri uygun şekilde doldurmak için firma ve adres "
+"bölümlerinden aşağıdaki bölümlerden gönderim yapılır."
+
+#: admin/views/admin-settings-general.php:9
+#, fuzzy
+msgid "Company Info"
+msgstr "Firma bilgileri"
+
+#: admin/views/admin-settings-general.php:14
+#, fuzzy
+msgid "Name"
+msgstr "İsim"
+
+#: admin/views/admin-settings-general.php:19
+#, fuzzy
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/views/admin-settings-general.php:24
+#: public/modules/invoice/invoice.php:522
+#, fuzzy
+msgid "Footer"
+msgstr "Altbilgi"
+
+#: admin/views/admin-settings-general.php:26
+#, fuzzy
+msgid "Set up a footer which will be used across the respective documents."
+msgstr "İlgili belgelerde kullanılacak bir altbilgi kurun."
+
+#: admin/views/admin-settings-general.php:32
+#, fuzzy
+msgid "Address(Sender details)"
+msgstr "Adres (Gönderen ayrıntıları)"
+
+#: admin/views/admin-settings-general.php:37
+#, fuzzy
+msgid "Department/Business Unit/Sender"
+msgstr "Bölüm / İş Birimi / Gönderen"
+
+#: admin/views/admin-settings-general.php:41
+#, fuzzy
+msgid "Address line 1"
+msgstr "Adres satırı 1"
+
+#: admin/views/admin-settings-general.php:45
+#, fuzzy
+msgid "Address line 2"
+msgstr "Adres satırı 2"
+
+#: admin/views/admin-settings-general.php:49
+#, fuzzy
+msgid "City"
+msgstr "Şehir"
+
+#: admin/views/admin-settings-general.php:68
+#, fuzzy
+msgid "Country/State"
+msgstr "Ülke devlet"
+
+#: admin/views/admin-settings-general.php:70
+#, fuzzy
+msgid "Choose a country&hellip;"
+msgstr "Bir ülke seçin&hellip;"
+
+#: admin/views/admin-settings-general.php:79
+#, fuzzy
+msgid "Postal code"
+msgstr "Posta Kodu"
+
+#: admin/views/admin-settings-general.php:83
+#, fuzzy
+msgid "Contact number"
+msgstr "İletişim numarası"
+
+#: admin/views/admin-settings-general.php:87
+#, fuzzy
+msgid "VAT"
+msgstr "KDV"
+
+#: admin/views/admin-settings-general.php:93
+#, fuzzy
+msgid "Other settings"
+msgstr "Diğer ayarlar"
+
+#: admin/views/admin-settings-general.php:99
+#, fuzzy
+msgid "Preview before printing"
+msgstr "Yazdırmadan önce önizleme"
+
+#: admin/views/admin-settings-general.php:102
+#, fuzzy
+msgid "Enabled"
+msgstr "Etkin"
+
+#: admin/views/admin-settings-general.php:103
+#, fuzzy
+msgid "Disabled"
+msgstr "Devre dışı"
+
+#: admin/views/admin-settings-general.php:108
+#, fuzzy
+msgid "Enable RTL support"
+msgstr "RTL Desteği etkinleştir"
+
+#: admin/views/admin-settings-general.php:111
+#: public/modules/deliverynote/views/general.php:16
+#: public/modules/deliverynote/views/general.php:26
+#: public/modules/deliverynote/views/general.php:37
+#: public/modules/dispatchlabel/views/general.php:16
+#: public/modules/dispatchlabel/views/general.php:27
+#: public/modules/invoice/views/general.php:25
+#: public/modules/invoice/views/general.php:43
+#: public/modules/invoice/views/general.php:77
+#: public/modules/invoice/views/general.php:87
+#: public/modules/invoice/views/invoice-number.php:94
+#: public/modules/packinglist/views/general.php:16
+#: public/modules/packinglist/views/general.php:27
+#: public/modules/packinglist/views/general.php:38
+#: public/modules/shippinglabel/views/general.php:24
+#, fuzzy
+msgid "Yes"
+msgstr "Evet"
+
+#: admin/views/admin-settings-general.php:112
+#: public/modules/deliverynote/views/general.php:17
+#: public/modules/deliverynote/views/general.php:27
+#: public/modules/deliverynote/views/general.php:38
+#: public/modules/dispatchlabel/views/general.php:17
+#: public/modules/dispatchlabel/views/general.php:28
+#: public/modules/invoice/views/general.php:26
+#: public/modules/invoice/views/general.php:44
+#: public/modules/invoice/views/general.php:78
+#: public/modules/invoice/views/general.php:88
+#: public/modules/invoice/views/invoice-number.php:95
+#: public/modules/packinglist/views/general.php:17
+#: public/modules/packinglist/views/general.php:28
+#: public/modules/packinglist/views/general.php:39
+#: public/modules/shippinglabel/views/general.php:25
+#, fuzzy
+msgid "No"
+msgstr "Hayır"
+
+#: admin/views/admin-settings-general.php:114
+#, fuzzy
+msgid "RTL support in documents generated by browser"
+msgstr "Tarayıcı tarafından oluşturulan belgelerde RTL desteği"
+
+#: admin/views/admin-settings-help.php:14
+#: admin/views/admin-settings-help.php:19
+#, fuzzy
+msgid "Help Links"
+msgstr "Yardım Bağlantıları"
+
+#: admin/views/admin-settings-help.php:15
+#: admin/views/admin-settings-help.php:43
+#, fuzzy
+msgid "Filters"
+msgstr "Filtreler"
+
+#: admin/views/admin-settings-help.php:23
+#: admin/views/admin-settings-help.php:26 admin/views/goto-pro.php:84
+#, fuzzy
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: admin/views/admin-settings-help.php:24
+#, fuzzy
+msgid "Refer to our documentation to set and get started"
+msgstr "Ayarlamak ve başlamak için belgelerimize bakın."
+
+#: admin/views/admin-settings-help.php:31
+#, fuzzy
+msgid "Help and Support"
+msgstr "Yardım ve Destek"
+
+#: admin/views/admin-settings-help.php:32
+#, fuzzy
+msgid "We would love to help you on any queries or issues."
+msgstr "Herhangi bir sorunuz veya konuda size yardımcı olmak isteriz."
+
+#: admin/views/admin-settings-help.php:34
+#, fuzzy
+msgid "Contact Us"
+msgstr "Bize Ulaşın"
+
+#: admin/views/admin-settings-help.php:45
+#, fuzzy
+msgid "Some useful `filters` to extend plugin's functionality"
+msgstr "Eklentinin işlevselliğini genişletmek için bazı yararlı 'filtreler'"
+
+#: admin/views/goto-pro.php:55
+#, fuzzy
+msgid "Watch getting started video"
+msgstr "Başlarken videosunu izleyin"
+
+#: admin/views/goto-pro.php:61
+#, fuzzy
+msgid "30 Day Money Back Guarantee"
+msgstr "30-gün para iade garantisi"
+
+#: admin/views/goto-pro.php:62
+#, fuzzy
+msgid "Fast and Superior Support"
+msgstr "Hızlı ve Üstün Destek"
+
+#: admin/views/goto-pro.php:65
+#, fuzzy
+msgid "Upgrade to Premium"
+msgstr "Premiuma yükselt"
+
+#: admin/views/goto-pro.php:71
+#, fuzzy
+msgid "A variety of awesome Templates to choose from!"
+msgstr "Aralarından seçim yapabileceğiniz harika Şablonlar çeşitli!"
+
+#: admin/views/goto-pro.php:72
+#, fuzzy
+msgid "Easy options to Customise and Personalise the Templates."
+msgstr "Şablonları Özelleştirmek ve Kişiselleştirmek için kolay seçenekler."
+
+#: admin/views/goto-pro.php:73
+#, fuzzy
+msgid ""
+"Various Packing Options - Box Packing, Single package per order & Pack items "
+"individually."
+msgstr ""
+"Çeşitli Paketleme Seçenekleri - Kutu Paketleme, Sipariş başına Tekli Paket "
+"ve öğeleri ayrı ayrı paketleyin."
+
+#: admin/views/goto-pro.php:74
+#, fuzzy
+msgid "Bulk Printing."
+msgstr "Toplu Baskı."
+
+#: admin/views/goto-pro.php:75
+#, fuzzy
+msgid "Option to Customize Return policy and Footer."
+msgstr "İade politikasını ve Altbilgiyi Özelleştirme Seçeneği."
+
+#: admin/views/goto-pro.php:76
+#, fuzzy
+msgid "Customize Invoice Number."
+msgstr "Fatura Numarasını Özelleştirin."
+
+#: admin/views/goto-pro.php:77
+#, fuzzy
+msgid "Address labels"
+msgstr "Adres etiketleri"
+
+#: admin/views/goto-pro.php:78
+#, fuzzy
+msgid "Option to send invoice to your Customer by e-Mail."
+msgstr "Müşterinize e-posta ile fatura gönderme seçeneği."
+
+#: admin/views/goto-pro.php:79
+#, fuzzy
+msgid "Supports checkout, order & product meta fields (SSN, VAT, etc.)."
+msgstr "Ödeme, sipariş ve ürün meta alanlarını (SSN, KDV vb.) Destekler."
+
+#: admin/views/goto-pro.php:89
+#, fuzzy
+msgid "Like this plugin?"
+msgstr "Bu eklenti gibi mi?"
+
+#: admin/views/goto-pro.php:90
+#, fuzzy
+msgid "If you find this plugin useful please show your support and rate it"
+msgstr ""
+"Bu eklentiyi yararlı bulursanız, lütfen desteğinizi gösterin ve oy verin"
+
+#: admin/views/goto-pro.php:90
+#, fuzzy
+msgid " on"
+msgstr " üzerinde"
+
+#: admin/views/goto-pro.php:90
+#, fuzzy
+msgid "  much appreciated!"
+msgstr "çok takdir!"
+
+#: includes/class-wf-woocommerce-packing-list-activator.php:36
+#, fuzzy
+msgid ""
+"Oops! You tried installing the premium version without deactivating and "
+"deleting the basic version. Kindly deactivate and delete Print Invoices, "
+"Packing Slip & Labels for WooCommerce (BASIC) and then try again"
+msgstr ""
+"Hata! Temel sürümü devre dışı bırakmadan ve silmeden premium sürümü "
+"yüklemeyi denediniz. WooCommerce için Baskı Faturalarını, Paketleme Fişi ve "
+"Etiketlerini (BASIC) devre dışı bırakıp silin ve sonra tekrar deneyin"
+
+#: includes/class-wf-woocommerce-packing-list-activator.php:39
+#, fuzzy
+msgid ""
+"Oops! You tried installing the premium version without deactivating and "
+"deleting the basic version. Kindly deactivate and delete WooCommerce "
+"Shipping Labels (BASIC) and then try again"
+msgstr ""
+"Hata! Temel sürümü devre dışı bırakmadan ve silmeden premium sürümü "
+"yüklemeyi denediniz. Lütfen WooCommerce Nakliye Etiketlerini (BASIC) devre "
+"dışı bırakın ve silin ve ardından tekrar deneyin."
+
+#: includes/class-wf-woocommerce-packing-list-box_packing.php:94
+#, fuzzy
+msgid "0"
+msgstr "0"
+
+#: public/modules/deliverynote/deliverynote.php:197
+#: public/modules/deliverynote/deliverynote.php:208
+#, fuzzy
+msgid "Print Delivery note"
+msgstr "Teslimat notunu yazdır"
+
+#: public/modules/deliverynote/deliverynote.php:270
+#, fuzzy
+msgid "Unable to print Delivery note. Please check the items in the order."
+msgstr "Teslim notu yazdırılamıyor. Lütfen siparişteki maddeleri kontrol edin."
+
+#: public/modules/deliverynote/views/general.php:6
+#, fuzzy
+msgid "Delivery note"
+msgstr "Teslimat notu"
+
+#: public/modules/deliverynote/views/general.php:12
+#: public/modules/packinglist/views/general.php:12
+#, fuzzy
+msgid "Include product image"
+msgstr "Ürün resmini dahil et"
+
+#: public/modules/deliverynote/views/general.php:22
+#: public/modules/dispatchlabel/views/general.php:12
+#: public/modules/invoice/views/general.php:84
+#: public/modules/packinglist/views/general.php:23
+#, fuzzy
+msgid "Add customer note"
+msgstr "Müşteri notu ekle"
+
+#: public/modules/deliverynote/views/general.php:29
+#, fuzzy
+msgid "Add customer note in delivery note"
+msgstr "Teslimat notuna müşteri notu ekleyin"
+
+#: public/modules/deliverynote/views/general.php:33
+#: public/modules/dispatchlabel/views/general.php:23
+#: public/modules/packinglist/views/general.php:34
+#: public/modules/shippinglabel/views/general.php:20
+#, fuzzy
+msgid "Add footer"
+msgstr "Altbilgi ekle"
+
+#: public/modules/deliverynote/views/general.php:40
+#, fuzzy
+msgid "Add footer in delivery note"
+msgstr "Teslimat notuna altbilgi ekle"
+
+#: public/modules/dispatchlabel/dispatchlabel.php:173
+#: public/modules/dispatchlabel/dispatchlabel.php:184
+#, fuzzy
+msgid "Print Dispatch Label"
+msgstr "Sevk Etiketi Yazdır"
+
+#: public/modules/dispatchlabel/views/general.php:6
+#, fuzzy
+msgid "Dispatch label"
+msgstr "Sevk etiketi"
+
+#: public/modules/dispatchlabel/views/general.php:19
+#, fuzzy
+msgid "Add customer note in dispatch label"
+msgstr "Sevk etiketine müşteri notu ekle"
+
+#: public/modules/dispatchlabel/views/general.php:30
+#, fuzzy
+msgid "Add footer in dispatch label"
+msgstr "Sevk etiketine altbilgi ekle"
+
+#: public/modules/invoice/invoice.php:122
+#: public/modules/invoice/invoice.php:456
+#, fuzzy
+msgid "Invoice"
+msgstr "Fatura"
+
+#: public/modules/invoice/invoice.php:496
+#, fuzzy
+msgid "Pro version"
+msgstr "Profesyonel sürüm"
+
+#: public/modules/invoice/invoice.php:501
+#: public/modules/invoice/views/invoice-admin-settings.php:27
+#, fuzzy
+msgid "Invoice Number"
+msgstr "Fatura Numarası"
+
+#: public/modules/invoice/invoice.php:502
+#, fuzzy
+msgid "Order Number"
+msgstr "Sipariş Numarası"
+
+#: public/modules/invoice/invoice.php:503
+#, fuzzy
+msgid "Invoice Date"
+msgstr "Fatura tarihi"
+
+#: public/modules/invoice/invoice.php:504
+#, fuzzy
+msgid "Order Date"
+msgstr "Sipariş Tarihi"
+
+#: public/modules/invoice/invoice.php:505
+#, fuzzy
+msgid "From Address"
+msgstr "Adresinden"
+
+#: public/modules/invoice/invoice.php:506
+#, fuzzy
+msgid "Billing Address"
+msgstr "Fatura Adresi"
+
+#: public/modules/invoice/invoice.php:507
+#, fuzzy
+msgid "Shipping Address"
+msgstr "Teslimat Adresi"
+
+#: public/modules/invoice/invoice.php:508
+#, fuzzy
+msgid "Email Field"
+msgstr "E-posta Alanı"
+
+#: public/modules/invoice/invoice.php:509
+#, fuzzy
+msgid "Tel Field"
+msgstr "Tel Alan"
+
+#: public/modules/invoice/invoice.php:511
+#, fuzzy
+msgid "Tracking Number"
+msgstr "Takip numarası"
+
+#: public/modules/invoice/invoice.php:512
+#, fuzzy
+msgid "Product Table"
+msgstr "Ürün Tablosu"
+
+#: public/modules/invoice/invoice.php:519
+#, fuzzy
+msgid "Coupon info"
+msgstr "Kupon bilgisi"
+
+#: public/modules/invoice/invoice.php:587
+#, fuzzy
+msgid "Print Invoices"
+msgstr "Faturaları Yazdır"
+
+#: public/modules/invoice/invoice.php:588
+#, fuzzy
+msgid "Download Invoices"
+msgstr "Faturaları İndir"
+
+#: public/modules/invoice/invoice.php:604
+#: public/modules/invoice/invoice.php:666
+#: public/modules/invoice/invoice.php:679
+#, fuzzy
+msgid "Print Invoice"
+msgstr "Fatura yazdır"
+
+#: public/modules/invoice/invoice.php:605
+#, fuzzy
+msgid "Download Invoice"
+msgstr "Faturayı İndir"
+
+#: public/modules/invoice/invoice.php:625
+#, fuzzy
+msgid "<strong>Invoice Number: </strong>"
+msgstr "<strong>Fatura numarası:</strong>"
+
+#: public/modules/invoice/views/general.php:7
+#, fuzzy
+msgid "Configure the general settings required for the invoice."
+msgstr "Fatura için gereken genel ayarları yapılandırın."
+
+#: public/modules/invoice/views/general.php:22
+#, fuzzy
+msgid "Enable invoice"
+msgstr "Faturayı etkinleştir"
+
+#: public/modules/invoice/views/general.php:31
+#, fuzzy
+msgid "Generate invoice for order statuses"
+msgstr "Sipariş durumları için fatura oluşturun"
+
+#: public/modules/invoice/views/general.php:33
+#, fuzzy
+msgid "Order statuses for which an invoice should be generated."
+msgstr "Bir faturanın oluşturulması gereken sipariş durumları."
+
+#: public/modules/invoice/views/general.php:40
+#, fuzzy
+msgid "Attach invoice PDF in email"
+msgstr "Fatura PDF'sini e-postaya ekle"
+
+#: public/modules/invoice/views/general.php:46
+#, fuzzy
+msgid ""
+"PDF version of currently active invoice template will be attached with the "
+"order email"
+msgstr ""
+"Şu anda etkin olan fatura şablonunun PDF sürümü sipariş e-postasına "
+"eklenecektir"
+
+#: public/modules/invoice/views/general.php:56
+#, fuzzy
+msgid "Email invoice for order statuses"
+msgstr "Sipariş durumları için e-posta faturası"
+
+#: public/modules/invoice/views/general.php:74
+#, fuzzy
+msgid "Enable print invoice option for customers"
+msgstr "Müşteriler için baskı faturası seçeneğini etkinleştir"
+
+#: public/modules/invoice/views/general.php:80
+#, fuzzy
+msgid "Add print invoice button to the order email"
+msgstr "Sipariş e-postasına yazdırma faturası düğmesi ekleyin"
+
+#: public/modules/invoice/views/general.php:90
+#, fuzzy
+msgid "Add customer note in invoice"
+msgstr "Faturaya müşteri notu ekle"
+
+#: public/modules/invoice/views/general.php:94
+#, fuzzy
+msgid "Custom logo for invoice"
+msgstr "Fatura için özel logo"
+
+#: public/modules/invoice/views/general.php:96
+#, fuzzy
+msgid "If left blank, defaulted to logo from General settings."
+msgstr "Boş bırakılırsa, Genel ayarlarından logoya varsayılan ayardır."
+
+#: public/modules/invoice/views/invoice-number.php:15
+#, fuzzy
+msgid "Date formats"
+msgstr "Tarih biçimleri"
+
+#: public/modules/invoice/views/invoice-number.php:22
+#, fuzzy
+msgid "Output"
+msgstr "Çıktı"
+
+#: public/modules/invoice/views/invoice-number.php:63
+#, fuzzy
+msgid ""
+"Use the configurations below to set up a custom invoice number with prefix/"
+"suffix/number series or mirror the order number respectively."
+msgstr ""
+"Önek / sonek / sayı serisi ile özel bir fatura numarası ayarlamak veya "
+"sırasıyla sipariş numarasını yansıtmak için aşağıdaki yapılandırmaları "
+"kullanın."
+
+#: public/modules/invoice/views/invoice-number.php:79
+#, fuzzy
+msgid "Invoice number format"
+msgstr "Fatura numarası formatı"
+
+#: public/modules/invoice/views/invoice-number.php:91
+#, fuzzy
+msgid "Use order number as invoice number"
+msgstr "Sipariş numarasını fatura numarası olarak kullan"
+
+#: public/modules/invoice/views/invoice-number.php:105
+#, fuzzy
+msgid "Invoice Start Number"
+msgstr "Fatura başlama numarası"
+
+#: public/modules/invoice/views/invoice-number.php:113
+#, fuzzy
+msgid "Reset Invoice no"
+msgstr "Faturayı Sıfırla no"
+
+#: public/modules/invoice/views/invoice-number.php:126
+#, fuzzy
+msgid "Prefix"
+msgstr "Önek"
+
+#: public/modules/invoice/views/invoice-number.php:131
+msgid "Suffix"
+msgstr "Sonek"
+
+#: public/modules/invoice/views/invoice-number.php:137
+#, fuzzy
+msgid "Invoice length"
+msgstr "Fatura uzunluğu"
+
+#: public/modules/packinglist/packinglist.php:199
+#: public/modules/packinglist/packinglist.php:210
+#, fuzzy
+msgid "Print Packing slip"
+msgstr "Ambalaj fişini yazdır"
+
+#: public/modules/packinglist/packinglist.php:272
+#: public/modules/shippinglabel/shippinglabel.php:273
+#, fuzzy
+msgid "Unable to print Packing slip. Please check the items in the order."
+msgstr ""
+"Ambalaj fişi yazdırılamıyor. Lütfen siparişteki maddeleri kontrol edin."
+
+#: public/modules/packinglist/views/general.php:6
+#, fuzzy
+msgid "Packing slip"
+msgstr "Ambalaj Kağıdı"
+
+#: public/modules/packinglist/views/general.php:19
+#, fuzzy
+msgid "Add product image in product table"
+msgstr "Ürün tablosuna ürün resmi ekle"
+
+#: public/modules/packinglist/views/general.php:30
+#, fuzzy
+msgid "Add customer note in packing list"
+msgstr "Ambalaj listesine müşteri notu ekleyin"
+
+#: public/modules/packinglist/views/general.php:41
+#, fuzzy
+msgid "Add footer in packing list"
+msgstr "Paket listesine altbilgi ekle"
+
+#: public/modules/shippinglabel/shippinglabel.php:143
+#: public/modules/shippinglabel/shippinglabel.php:154
+#, fuzzy
+msgid "Print Shipping Label"
+msgstr "Kargo etiketi yazdır"
+
+#: public/modules/shippinglabel/shippinglabel.php:206
+#, fuzzy
+msgid "Please add shipping from address in the plugin's general settings."
+msgstr "Lütfen eklentinin genel ayarlarında adrese gönderim ekleyin."
+
+#: public/modules/shippinglabel/views/general.php:6
+#, fuzzy
+msgid "Shipping label"
+msgstr "Kargo etiketi"
+
+#: public/modules/shippinglabel/views/general.php:12
+#, fuzzy
+msgid "Shipping label size"
+msgstr "Nakliye etiketi boyutu"
+
+#: public/modules/shippinglabel/views/general.php:15
+#, fuzzy
+msgid "Full Page"
+msgstr "Tam Sayfa"
+
+#: public/modules/shippinglabel/views/general.php:27
+#, fuzzy
+msgid "Add footer in shipping label"
+msgstr "Nakliye etiketine altbilgi ekle"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+msgid ""
+"WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels "
+"(Basic)"
+msgstr ""
+"WooCommerce PDF Faturaları, Ambalaj Fişleri, Teslim Notları ve Gönderim "
+"Etiketleri (Temel)"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.webtoffee.com/product/woocommerce-pdf-invoices-packing-slips/"
+msgstr ""
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Prints Packing List,Invoice,Delivery Note & Shipping Label."
+msgstr "Paketleme Listesi, Fatura, Teslim Notu ve Nakliye Etiketi'ni yazdırır."
+
+#. Author of the plugin/theme
+msgid "WebToffee"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webtoffee.com/"
+msgstr ""

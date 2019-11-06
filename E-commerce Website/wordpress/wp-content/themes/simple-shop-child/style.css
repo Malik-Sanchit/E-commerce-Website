@@ -1,0 +1,53 @@
+/*
+Theme Name: simple-shop Child Theme
+Template: simple-shop
+Version: 1.0.1
+*/
+.elementor-91 .elementor-element.elementor-element-19cd67d7 .elementor-heading-title {
+   
+    font-size: 120px !important;
+	
+}
+
+.elementor-91 .elementor-element.elementor-element-450d1c77:not(.elementor-motion-effects-element-type-background), .elementor-91 .elementor-element.elementor-element-450d1c77 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: beige !important;
+}
+
+.elementor-91 .elementor-element.elementor-element-2eacaafe {
+    color: #f00 !important;
+}
+
+    .elementor-91 .elementor-element.elementor-element-52c6b62b.elementor-widget-heading .elementor-heading-title {
+    text-shadow: 2px 2px #ff0000 !important;
+}
+
+.elementor-91 .elementor-element.elementor-element-2db5ca97 .elementor-image-box-img img {
+    transition-duration: 0.9s !important;
+}
+
+
+0% {
+    opacity: 50 !important;
+}
+
+
+.elementor-91 .elementor-element.elementor-element-19cd67d7 .elementor-heading-title {
+    
+    font-weight: 600 !important;
+}
+    
+    a:hover, a:focus {
+    color: #00ff00 !important;
+}
+
+.select.orderby {
+    display: none !important;
+}
+a {
+    color: #00ba07;
+    line-height: inherit;
+    text-decoration: none;
+}
+form.woocommerce-ordering {
+    display: none !important;
+}
